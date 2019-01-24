@@ -1,0 +1,36 @@
+{
+  "name": "image2gcode",
+  "version": "0.1.0",
+  "description": "Converts an Image to Gcode",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "canvg": "0.0.6",
+    "commander": "^2.19.0",
+    "connect-timeout": "^1.9.0",
+    "eslint": "^5.8.0",
+    "eslint-config-google": "^0.11.0",
+    "express": "^4.16.4",
+    "gcanvas": "0.0.37",
+    "gm": "^1.23.1",
+    "potrace": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbhyudayaSharma/image2gcode.git"
+  },
+  "keywords": [
+    "image",
+    "gcode",
+    "cnc",
+    "milling"
+  ],
+  "author": "Abhyudaya SHarma",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

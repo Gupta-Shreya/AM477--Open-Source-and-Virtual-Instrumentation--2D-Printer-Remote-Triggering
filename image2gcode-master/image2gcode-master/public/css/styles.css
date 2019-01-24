@@ -1,0 +1,14 @@
+#navbar-center {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    padding-bottom: 150px;
+}
+
+img.loading {
+    width: 20px;
+    height: 20px;
+}
